@@ -4,7 +4,7 @@
 
 # Bradi — Assistente Financeiro com IA Generativa
 
-Agente conversacional financeiro construído 
+Agente conversacional financeiro 
 
 Desenvolvido para o desafio **DIO × Bradesco** — Trilha GenAI & Data
 
