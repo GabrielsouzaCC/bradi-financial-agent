@@ -17,7 +17,7 @@ Desenvolvido para o desafio **DIO × Bradesco** — Trilha GenAI & Data
 
 ---
 
-## 💡 O que é este projeto — e por que ele importa
+##  O que é este projeto — e por que ele importa
 
 Este projeto **não é um chatbot genérico**. É um agente financeiro que conhece o cliente de verdade: analisa seu histórico de transações, entende sua carteira de investimentos, acompanha suas metas e recomenda produtos alinhados ao seu perfil de risco.
 
@@ -27,34 +27,37 @@ O problema que ele resolve é real: bancos digitais entregam dados, mas não ent
 
 ---
 
-## 🖥️ Preview
+##  Preview
 
 ### Tela inicial com painel de contexto financeiro
-![Tela inicial](assets/preview-inicial.png)
+<img width="1346" height="746" alt="image" src="https://github.com/user-attachments/assets/f4e74438-57ff-4603-ab6b-b932f9334dd1" />
+
 
 ### Simulação financeira com tabela formatada
-![Simulação](assets/preview-simulacao.png)
+<img width="1350" height="747" alt="image" src="https://github.com/user-attachments/assets/8c8243c4-7664-40f9-abfc-acbd1b883c58" />
+
 
 ### Recomendação personalizada por perfil
-![Recomendação](assets/preview-recomendacao.png)
+<img width="1350" height="754" alt="image" src="https://github.com/user-attachments/assets/2e891946-d56f-4734-b34f-ce32205a27ca" />
+
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 | Funcionalidade | Descrição |
 |---|---|
-| 📊 Análise de gastos | Identifica padrões em 3 meses de transações e sugere otimizações |
-| 🏦 Recomendação de produtos | Sugere CDB, LCI, Tesouro e Fundos alinhados ao perfil do cliente |
-| 🧮 Simulações financeiras | Cálculo de juros compostos com desconto de IR regressivo |
-| ❓ FAQs inteligentes | Explica CDI, Selic, FGC, come-cotas e IR em linguagem acessível |
-| 🎯 Progresso de metas | Acompanha Reserva de Emergência e Entrada do Imóvel em tempo real |
-| 🛡️ Anti-alucinação | Responde apenas com base nos dados reais — nunca inventa valores |
-| 🖥️ Layout responsivo | Sidebar com carteira, metas e gastos mensais sempre visíveis |
+|  Análise de gastos | Identifica padrões em 3 meses de transações e sugere otimizações |
+|  Recomendação de produtos | Sugere CDB, LCI, Tesouro e Fundos alinhados ao perfil do cliente |
+|  Simulações financeiras | Cálculo de juros compostos com desconto de IR regressivo |
+|  FAQs inteligentes | Explica CDI, Selic, FGC, come-cotas e IR em linguagem acessível |
+|  Progresso de metas | Acompanha Reserva de Emergência e Entrada do Imóvel em tempo real |
+|  Anti-alucinação | Responde apenas com base nos dados reais — nunca inventa valores |
+|  Layout responsivo | Sidebar com carteira, metas e gastos mensais sempre visíveis |
 
 ---
 
-## 🧠 Arquitetura e Decisões Técnicas
+##  Arquitetura e Decisões Técnicas
 
 ```
 ┌────────────────────────────────────────────────────────┐
@@ -86,7 +89,7 @@ Em vez de deixar o modelo responder livremente, todos os dados do cliente são i
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 lab-agente-financeiro/
@@ -118,7 +121,7 @@ lab-agente-financeiro/
 
 ---
 
-## 🚀 Como Rodar
+##  Como Rodar
 
 ### Pré-requisitos
 - [Node.js 18+](https://nodejs.org/)
@@ -143,7 +146,7 @@ npm run dev
 
 ---
 
-## 📚 Documentação
+##  Documentação
 
 | Documento | O que cobre |
 |---|---|
@@ -155,7 +158,7 @@ npm run dev
 
 ---
 
-## 🔒 Segurança e Confiabilidade
+##  Segurança e Confiabilidade
 
 No setor financeiro, uma resposta errada não é apenas ruim — pode causar prejuízo real. O Bradi foi projetado com três camadas de proteção:
 
@@ -165,7 +168,7 @@ No setor financeiro, uma resposta errada não é apenas ruim — pode causar pre
 
 ---
 
-## 🌐 Visão de Produção
+##  Visão de Produção
 
 Em um ambiente real, este agente seria alimentado por:
 
@@ -178,7 +181,7 @@ A arquitetura de injeção de contexto permanece a mesma — apenas a fonte dos 
 
 ---
 
-## 👤 Sobre o Autor
+##  Sobre o Autor
 
 **Gabriel** — Estudante de Ciência da Computação (2º semestre) na FIAP, com foco em Análise de Dados e IA.
 
