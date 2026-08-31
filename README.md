@@ -186,8 +186,8 @@ A arquitetura de injeção de contexto permanece a mesma — apenas a fonte dos 
 
 Atuo na gestão financeira e de RH de uma empresa de engenharia, onde aplico Python para automação de processos e Power BI para dashboards estratégicos. Este projeto combina meu interesse em dados, IA generativa e produtos financeiros.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-oliveira-souza-b89073379)
+
 
 ---
 
