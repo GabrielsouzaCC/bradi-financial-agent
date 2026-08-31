@@ -1,0 +1,23 @@
+data,descricao,valor,tipo,categoria
+2026-08-01,Salário Agosto,7500.00,crédito,Receita
+2026-08-03,Supermercado Extra,-342.50,débito,Alimentação
+2026-08-05,Netflix,-55.90,débito,Entretenimento
+2026-08-07,Academia SmartFit,-99.90,débito,Saúde
+2026-08-10,Restaurante Outback,-187.40,débito,Alimentação
+2026-08-12,iFood - Pedido,-145.70,débito,Alimentação
+2026-08-15,PIX - Aluguel,-2200.00,débito,Moradia
+2026-08-18,Farmácia Drogasil,-78.30,débito,Saúde
+2026-08-20,Posto Shell - Combustível,-230.00,débito,Transporte
+2026-08-22,Supermercado Pão de Açúcar,-198.40,débito,Alimentação
+2026-08-25,Uber - Corrida,-34.90,débito,Transporte
+2026-08-28,Rendimento CDB Agosto,285.42,crédito,Investimento
+2026-07-01,Salário Julho,7500.00,crédito,Receita
+2026-07-04,Supermercado Extra,-389.20,débito,Alimentação
+2026-07-10,Netflix,-55.90,débito,Entretenimento
+2026-07-10,Academia SmartFit,-99.90,débito,Saúde
+2026-07-14,Restaurante - Almoço,-92.00,débito,Alimentação
+2026-07-15,PIX - Aluguel,-2200.00,débito,Moradia
+2026-07-18,iFood - Pedido,-110.30,débito,Alimentação
+2026-07-22,Farmácia,-65.10,débito,Saúde
+2026-07-25,Gasolina Shell,-215.00,débito,Transporte
+2026-07-28,Rendimento CDB Julho,281.75,crédito,Investimento

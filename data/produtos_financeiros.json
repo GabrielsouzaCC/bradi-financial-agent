@@ -1,0 +1,95 @@
+{
+  "produtos": [
+    {
+      "id": "CDB-PRE",
+      "nome": "CDB Pré-fixado Bradesco",
+      "categoria": "Renda Fixa",
+      "taxa": "12.5% ao ano",
+      "aplicacao_minima": 1000.00,
+      "liquidez": "No vencimento",
+      "imposto": "IR regressivo (22,5% a 15%)",
+      "perfil_indicado": ["Conservador", "Moderado"],
+      "prazo_sugerido": "12 a 36 meses",
+      "garantia_fgc": true,
+      "disponivel": true
+    },
+    {
+      "id": "TESOURO-SELIC",
+      "nome": "Tesouro Direto Selic",
+      "categoria": "Renda Fixa",
+      "taxa": "Selic (14.75% ao ano)",
+      "aplicacao_minima": 100.00,
+      "liquidez": "Diária",
+      "imposto": "IR regressivo (22,5% a 15%)",
+      "perfil_indicado": ["Conservador", "Moderado", "Arrojado"],
+      "prazo_sugerido": "Reserva de emergência ou qualquer prazo",
+      "garantia_fgc": false,
+      "disponivel": true
+    },
+    {
+      "id": "LCI-LCA",
+      "nome": "LCI/LCA Bradesco",
+      "categoria": "Renda Fixa",
+      "taxa": "11% ao ano",
+      "aplicacao_minima": 1000.00,
+      "liquidez": "Carência de 90 dias",
+      "imposto": "Isento de IR para pessoa física",
+      "perfil_indicado": ["Conservador", "Moderado"],
+      "prazo_sugerido": "12 a 24 meses",
+      "garantia_fgc": true,
+      "disponivel": true
+    },
+    {
+      "id": "PREV-PGBL",
+      "nome": "Previdência Privada PGBL",
+      "categoria": "Previdência",
+      "taxa": "Rentabilidade estimada 8% ao ano",
+      "aplicacao_minima": 100.00,
+      "liquidez": "Resgate após carência (2 anos)",
+      "imposto": "Tributação no resgate; dedução IR até 12% da renda bruta",
+      "perfil_indicado": ["Moderado", "Arrojado"],
+      "prazo_sugerido": "Acima de 10 anos",
+      "garantia_fgc": false,
+      "disponivel": true
+    },
+    {
+      "id": "FUNDO-MM",
+      "nome": "Fundo Multimercado Bradesco Prime",
+      "categoria": "Multimercado",
+      "taxa": "13.2% ao ano (histórico 12 meses)",
+      "aplicacao_minima": 5000.00,
+      "liquidez": "D+1",
+      "imposto": "IR regressivo (22,5% a 15%)",
+      "perfil_indicado": ["Moderado", "Arrojado"],
+      "prazo_sugerido": "Acima de 2 anos",
+      "garantia_fgc": false,
+      "disponivel": true
+    },
+    {
+      "id": "CONSORCIO-IMOVEL",
+      "nome": "Consórcio Imóvel Bradesco",
+      "categoria": "Consórcio",
+      "taxa": "Sem juros | Taxa adm. total 18%",
+      "aplicacao_minima": 800.00,
+      "liquidez": "Contemplação por lance ou sorteio",
+      "imposto": "Isento",
+      "perfil_indicado": ["Conservador", "Moderado"],
+      "prazo_sugerido": "60 a 180 meses",
+      "garantia_fgc": false,
+      "disponivel": true
+    },
+    {
+      "id": "EMP-PESSOAL",
+      "nome": "Empréstimo Pessoal Bradesco",
+      "categoria": "Crédito",
+      "taxa": "A partir de 1.99% ao mês",
+      "aplicacao_minima": 500.00,
+      "liquidez": "Liberação em até 24h",
+      "imposto": "IOF",
+      "perfil_indicado": ["Conservador", "Moderado", "Arrojado"],
+      "prazo_sugerido": "12 a 60 meses",
+      "garantia_fgc": false,
+      "disponivel": true
+    }
+  ]
+}

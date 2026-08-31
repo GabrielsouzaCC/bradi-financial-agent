@@ -1,0 +1,44 @@
+{
+  "cliente": {
+    "id": "BRD-2025-00847",
+    "nome": "Lucas Ferreira",
+    "idade": 32,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "profissao": "Analista de Sistemas",
+    "renda_mensal_liquida": 7500.00,
+    "cliente_desde": "2025-08-22"
+  },
+  "perfil_investidor": {
+    "classificacao": "Moderado",
+    "score": 62,
+    "tolerancia_risco": "Média",
+    "horizonte_investimento": "Longo prazo (acima de 5 anos)",
+    "objetivo_principal": "Aposentadoria",
+    "objetivo_secundario": "Reserva de emergência",
+    "meta_reserva_emergencia": 22500.00,
+    "meta_aposentadoria": 2000000.00,
+    "aceita_renda_variavel": false,
+    "ultima_avaliacao": "2026-05-20"
+  },
+  "patrimonio": {
+    "saldo_conta_corrente": 3247.89,
+    "investimentos": [
+      {
+        "produto": "CDB Pós-fixado",
+        "instituicao": "Bradesco",
+        "saldo": 28500.00,
+        "taxa": "CDI + 0.5% ao ano",
+        "vencimento": "2027-10-15",
+        "data_aplicacao": "2026-05-20"
+      }
+    ],
+    "total_investido": 28500.00
+  },
+  "cartao": {
+    "tipo": "Platinum",
+    "limite": 8000.00,
+    "fatura_atual": 1245.30,
+    "cashback": "1% em todas as compras"
+  }
+}
