@@ -154,7 +154,6 @@ npm run dev
 | [02 · Dados](docs/02-base-conhecimento.md) | Como os dados são estruturados e injetados no contexto |
 | [03 · Prompts](docs/03-prompts.md) | System prompt completo, exemplos reais e edge cases |
 | [04 · Métricas](docs/04-metricas.md) | Framework de avaliação com banco de 14 perguntas-teste |
-| [05 · Pitch](docs/05-pitch.md) | Roteiro do pitch de 3 minutos para apresentação |
 
 ---
 
