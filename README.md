@@ -4,7 +4,7 @@
 
 # Bradi — Assistente Financeiro com IA Generativa
 
-**Agente conversacional financeiro construído com React, Vite e Claude Sonnet 4.6**
+**Agente conversacional financeiro construído 
 
 Desenvolvido para o desafio **DIO × Bradesco** — Trilha GenAI & Data
 
